@@ -1,9 +1,9 @@
 {
     "locals": "en",
 
-    "EnableAcFunctions": true,
+    "EnableAcFunctions": false,
 
-    "allLogs": true,
+    "allLogs": false,
     "postals": true,
     "weaponLog": true,
     "inlineField": true,
@@ -32,11 +32,11 @@
 
     "DiscordUpdateNotify": true,
 
-    "userName": "Bot Username Here",
+    "userName": "SouthCentralCoastLogs",
     "avatar": "https://via.placeholder.com/30x30",
-    "communityName": "Community Name Here",
+    "communityName": "SouthCentralCoast",
     "communityLogo": "https://via.placeholder.com/30x30",
-    "footerText": "2020 - 2021 © Prefech",
+    "footerText": "HHDev 2022",
     "footerIcon": "https://via.placeholder.com/30x30",
 
     "PrefechGlobalBans": true,
@@ -53,8 +53,8 @@
         "screenshot": ["screenshot", "ss"]
     },
 
-    "useESX": false,
-    "esxName": false,
-    "esxJob": false,
-    "esxMoney": false
+    "useESX": true,
+    "esxName": true,
+    "esxJob": true,
+    "esxMoney": true
 }

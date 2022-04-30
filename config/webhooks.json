@@ -11,7 +11,7 @@
         "webhook": "DISCORD_WEBHOOK"
     },
 	"chat": {
-        "webhook": "DISCORD_WEBHOOK",
+        "webhook": "https://discordapp.com/api/webhooks/962201044895535204/fl__bhdOprm_Mnueqhyq3enq7rMkHWLCAG2QU2mpVkZB-6p28nTiROrX05NyphHtv080",
         "icon": "💬",
         "color": "#A1A1A1",
         "logHistory": true,
@@ -35,7 +35,7 @@
         }
     },
 	"joins": {
-        "webhook": "DISCORD_WEBHOOK",
+        "webhook": "https://discordapp.com/api/webhooks/962201131759583252/qUo61JKSleBRnxRwEa6UrOMM01ZDhjIysLY8sKPfpo1H07DNUjNeYzODY5fT2Y6Y7BrK",
         "icon": "📥",
         "color": "#3AF241",
         "embed": true,
@@ -58,7 +58,7 @@
         }
     },
 	"leaving": {
-        "webhook": "DISCORD_WEBHOOK",
+        "webhook": "https://discordapp.com/api/webhooks/962201206124593192/gpeLndzZyKc74glWD7Wug6P14Wuogi6VOZEPS6tC3o3xkQ4snXxx-hi0vaY5mMYOHNfJ",
         "icon": "📤",
         "color": "#F23A3A",
         "embed": true,
@@ -81,7 +81,7 @@
         }
     },
 	"deaths": {
-        "webhook": "DISCORD_WEBHOOK",
+        "webhook": "https://discordapp.com/api/webhooks/962200423832363078/mFg5ajgEOREhaxrL9DdGnreDsLgClI14Z4hWnCxOKwbbzFMuwd-ouwkMw_CmXsJCQrgX",
         "icon": "💀",
         "color": "#000000",
         "logHistory": true,
@@ -105,7 +105,7 @@
         }
     },
 	"shooting": {
-        "webhook": "DISCORD_WEBHOOK",
+        "webhook": ""https://discordapp.com/api/webhooks/962201353181102132/f2Qdt_L-4jjhwR3HNqw2Z4dwvparpa5Cjiv3X56y6UwU99ahaFxGsVdgf0m9cTQZdlCa",
         "icon": "🔫",
         "color": "#2E66F2",
         "logHistory": false,
@@ -129,7 +129,7 @@
         }
     },
 	"resources": {
-        "webhook": "DISCORD_WEBHOOK",
+        "webhook": "https://discordapp.com/api/webhooks/962200511698849833/I12xb4vohSpns5jLFQiTUgBjh7GqwFA4W8pgGMjgfMs5TM9N089LulPzAdqIWGUEiDs5",
         "icon": "🔧",
         "color": "#EBEE3F",
         "embed": true,
@@ -149,7 +149,7 @@
         }
     },
     "nameChange": {
-        "webhook": "DISCORD_WEBHOOK",
+        "webhook": "https://discordapp.com/api/webhooks/962200511698849833/I12xb4vohSpns5jLFQiTUgBjh7GqwFA4W8pgGMjgfMs5TM9N089LulPzAdqIWGUEiDs5",
         "icon": "⚠",
         "color": "#03FC98",
         "embed": true,
@@ -172,7 +172,7 @@
         }
     },
     "explosion": {
-        "webhook": "DISCORD_WEBHOOK",
+        "webhook": "https://discordapp.com/api/webhooks/962202581285871616/m5PvoL4EAFD5uChzTSf7A-DjISYi8SN1SgP6Pwk7oSSsRVuruuxR__9RY8Q21IEJ4ID8",
         "icon": "🧨",
         "color": "#03FC98",
         "embed": true,
